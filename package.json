@@ -1,0 +1,25 @@
+{
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.2",
+        "express-session": "^1.17.2",
+        "keycloak-connect": "^16.1.0"
+    },
+    "name": "series-logbook-backend",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/marcelapereirads/series-logbook-backend.git"
+    },
+    "author": "Marcela <“marcelapereirads@gmail.com”>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/marcelapereirads/series-logbook-backend/issues"
+    },
+    "homepage": "https://github.com/marcelapereirads/series-logbook-backend#readme",
+    "description": ""
+}
